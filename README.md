@@ -23,7 +23,7 @@ Run Locally:
 1. Begin Tasking
 
 Run Remotely:
-1. Navigate to [GitHub Pages](https://pages.github.com/) https://pacific-crag-90348.herokuapp.com/ in your browser
+1. Navigate to https://pacific-crag-90348.herokuapp.com/ in your browser
 1. Begin Tasking
 
 Getting Started:
